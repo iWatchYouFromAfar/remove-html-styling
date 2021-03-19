@@ -1,0 +1,19 @@
+{
+  "name": "remove-html-styling",
+  "version": "1.0.0",
+  "description": "The package removes the default HTML styles of different browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iWatchYouFromAfar/remove-html-styling.git"
+  },
+  "author": "iWatchYouFromAfar (skip1209@yahoo.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iWatchYouFromAfar/remove-html-styling/issues"
+  },
+  "homepage": "https://github.com/iWatchYouFromAfar/remove-html-styling#readme"
+}
