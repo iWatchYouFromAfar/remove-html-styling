@@ -1,6 +1,6 @@
 {
   "name": "remove-html-styling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The package removes the default HTML styles of different browsers",
   "main": "index.js",
   "scripts": {
